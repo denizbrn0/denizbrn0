@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deniz</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Javascript**
-
 - 📫 How to reach me **denizbaran128@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
